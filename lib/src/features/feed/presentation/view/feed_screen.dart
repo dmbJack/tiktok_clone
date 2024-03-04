@@ -11,6 +11,7 @@ class FeedScreen extends StatelessWidget {
       appBar: AppBar(
         title: const Text("Feed"),
       ),
+        body: Center(child: Container(width: 100,height: 100, color: Colors.blue,),),
       // bottomNavigationBar: const CustomNavBar(),
     );
   }

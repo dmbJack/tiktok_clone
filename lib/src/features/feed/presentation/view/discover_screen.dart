@@ -11,6 +11,7 @@ class DiscoverScreen extends StatelessWidget {
       appBar: AppBar(
         title: const Text("Discover"),
       ),
+      body: Center(child: Container(width: 100,height: 100, color: Colors.red,),),
       // bottomNavigationBar: const CustomNavBar(),
     );
   }
