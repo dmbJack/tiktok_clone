@@ -1,7 +1,5 @@
 import 'package:flutter/material.dart';
 
-import '../../../../shared/presentation/widgets/widgets.dart';
-
 class FeedScreen extends StatelessWidget {
   const FeedScreen({super.key});
 
